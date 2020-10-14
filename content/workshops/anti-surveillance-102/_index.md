@@ -13,6 +13,10 @@ of Santa Clara County
 
 ---
 
+## Follow along at cpcscc.org/102
+
+---
+
 # What is the CPC?
 
 {{% fragment %}}A grassroots, volunteer-run watch dog coalition that aims to combat the lack of oversight and awareness surrounding the state of government and corporate surveillance in the heart of Silicon Valley.{{% /fragment %}}
