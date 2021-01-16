@@ -5,9 +5,9 @@ outputs = ["Reveal"]
 
 {{< slide id="title" background="#1e1e4b" background-image="https://images.unsplash.com/photo-1474301105119-cdc36a303335?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" transition="zoom" transition-speed="fast" >}}
 
-# Anti-surveillance 101 
+# Digital Security for Activists 101 
 
-Citizens Privacy Coalition (CPC)
+Citizens Privacy Coalition
 
 of Santa Clara County
 
@@ -29,45 +29,25 @@ of Santa Clara County
 
 ---
 
-# Investigate and Legislate.
-
-Facial recognition surveillance
-
-cpcscc.org/face
-
----
-
-Black inidividuals are up to 100 times more likely to be misidentified by facial recognition surveillance.
-
-Information session soon. 
-
----
-
-# Educate.
-
-Workshops like these.
-
----
-
-# We need volunteers!
-
-cpcscc.org/contact
-
----
-
 # Agenda
 
-{{% fragment %}}Encryption. {{% /fragment %}}{{% fragment %}}Encryption. {{% /fragment %}}{{% fragment %}}Encryption.{{% /fragment %}}
-
----
-
-# Agenda
-
-- {{% fragment %}}How do I encrypt my internet activities?{{% /fragment %}}
-- {{% fragment %}}How do I encrypt my email?{{% /fragment %}}
-- {{% fragment %}}How do I encrypt my text messages and phone calls?{{% /fragment %}}
-- {{% fragment %}}How do I encrypt my phone?{{% /fragment %}}
+- {{% fragment %}}Password managers{{% /fragment %}}
+- {{% fragment %}}Encrypted communications{{% /fragment %}}
 - {{% fragment %}}What should I do while protesting?{{% /fragment %}}
+
+---
+
+# cpcscc.org/101
+
+If you want to follow along with slides
+
+---
+
+Curriculum largely taken from [ssd.eff.org](https://ssd.eff.org/)
+
+---
+
+## Please feel free to interrupt with questions
 
 ---
 
@@ -76,6 +56,93 @@ cpcscc.org/contact
 Roughly 80% of surveillance can be avoided by taking 20% of precautions.
 
 (This statistic is for illustration purposes, not exact)
+
+---
+
+{{< slide id="password-managers" color="black" background="#1e1e4b" background-image="https://images.unsplash.com/photo-1509822429293-98a3c3fe6bee?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=687&q=80" transition="zoom" transition-speed="fast" >}}
+
+# Password Managers
+
+---
+
+## Password Manager: 
+
+A tool that produces randomly generated passwords and stores thems securely, allowing you to have a different password for each login. This makes your life easier and more secure simultaneously.
+
+---
+
+## How does it make my life more secure?
+
+Using the same password for every login is a bad idea. Sites get hacked and passwords get leaked. If you're using the same password on Instagram that you use for your email and banking, those logins are also compromised.
+
+---
+
+## How does it make my life easier?
+
+It's impossible to remember a different password for the hundreds of logins you have. A password remembers them for you.
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q0GeMSFGIgI?end=222" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## What password manager should I use?
+
+Paid: [1Password](https://1password.com), [Dashlane](https://dashlane.com)
+
+Free: [LastPass](https://lastpass.com), [Bitwarden](https://bitwarden.com), [KeePass](https://keepass.com)
+
+---
+
+# Let's give it a try!
+
+---
+
+{{< slide id="2fa" color="black" background="#1e1e4b" background-image="https://images.unsplash.com/photo-1544866092-1935c5ef2a8f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1355&q=80" transition="zoom" transition-speed="fast" >}}
+
+# 2 Factor Authentication
+
+---
+
+## 2 Factor AUthentication (2FA):
+
+Requires you to enter a randomly generated PIN after successfully entering your password. PIN changes every 30 seconds.
+
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q0GeMSFGIgI?start=224&end=256" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## If you can help it, don't use text messages for 2FA.
+
+---
+
+## What 2FA app should I use?
+
+Paid: [1Password](https://1password.com), [LastPass](https://lastpass.com)
+
+Free: Duo Security, Google Authenticator, Authy, tons more options
+
+Last resort: Text message
+
+---
+
+## Password managers and 2FA are not bullet proof 
+
+Won't protect from physical attacks or more sophisticated attackers.
+
+---
+
+# Let's give it a try!
+
+---
+
+{{< slide id="encryption" color="black" background="#1e1e4b" background-image="https://images.unsplash.com/photo-1547190027-9156686aa2f0?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" transition="zoom" transition-speed="fast" >}}
+
+# Encryption
 
 ---
 
@@ -96,79 +163,6 @@ The process of converting messages in ordinary language, or other information in
 # Encryption is not bullet proof
 
 It will not protect you from data you submit to a website or reveal to a third party
-
----
-
-{{< slide id="internet-activities" color="black" background="#1e1e4b" background-image="https://images.unsplash.com/photo-1499343628900-545067aef5a3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" transition="zoom" transition-speed="fast" >}}
-
-# How do I encrypt my internet activities?
-
----
-
-<iframe src="https://archive.org/embed/tips-to-help-avoid-online-surveillance" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
----
-
-# What is HTTPS?
-
-{{% fragment %}}Hyper Text Transfer Protocol Secure{{% /fragment %}}
-
----
-
-![](/workshops/anti-surveillance-101/img/chrome-lock.jpeg)
-
-![](/workshops/anti-surveillance-101/img/mozilla-lock.jpeg)
-
----
-
-# Metadata
-
-{{% fragment %}}Data{{% /fragment %}}{{% fragment %}}about{{% /fragment %}}{{% fragment %}}data.{{% /fragment %}}
-
----
-
-# HTTPS does not hide metadata:
-
-- {{% fragment %}}Destination{{% /fragment %}}
-- {{% fragment %}}Source{{% /fragment %}}
-- {{% fragment %}}The browser you're using{{% /fragment %}}
-- {{% fragment %}}The the time you made the request{{% /fragment %}}
-
----
-
-## HTTPS does not hide your browsing history on your computer
-
-If you're concerned about that, you will need to clear your browing history regularly or configure it to not be saved.
-
----
-
-# HTTPS does hide:
-
-Data you're sending to a website such an email, form, password, etc.
-
-Keep in mind that the destination will see that data.
-
----
-
-# Install HTTPS Everywhere
-
-eff.org/https-everywhere
-
----
-
-# Next level:
-
-# Tor Browser
-
----
-
-Tor is a hidden network inside the internet, only accessible through the Tor browser. Because of the way it is designed, 3rd parties cannot know where the request came from.
-
----
-
-You sacrifice a little bit of speed, but if you really don't want to risk your activity being seen, it's well worth it.
-
-Learn more and download at torproject.org
 
 ---
 
@@ -221,6 +215,10 @@ An email sent from Protonmail to any non-Protonmail address will be viewable by 
 The easiest way to use it for Gmail is to install the browser plugin FlowCrypt.
 
 flowcrypt.com
+
+---
+
+# Let's give it a try!
 
 ---
 
@@ -284,9 +282,17 @@ I do _not_ recommend this app at all. Their encryption has been proven to be les
 
 ---
 
+# Let's give it a try!
+
+---
+
 {{< slide id="protesting" color="black" background="#1e1e4b" background-image="https://images.unsplash.com/photo-1494192785370-e91e091d544f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" transition="zoom" transition-speed="fast" >}}
 
 # What should I do while protesting?
+
+---
+
+## First you need to review your [threat model](https://ssd.eff.org/en/module/seven-steps-digital-security#1)
 
 ---
 
@@ -316,19 +322,12 @@ When you share your location with an app on your phone, they know where you are.
 
 ---
 
-## Protect your location while protesting:
-
-- {{% fragment %}}Leave phone at home or put it in airplane mode.{{% /fragment %}}
-- {{% fragment %}}Download offline maps and know your meeting spots.{{% /fragment %}}
-- {{% fragment %}}Consider walking.{{% /fragment %}}
+# How to review app permissions on your phone
 
 ---
 
-## Protect data on your phone while protesting
-
-- {{% fragment %}}Temporarily disable face and fingerprint ID on your phone.{{% /fragment %}}
-- {{% fragment %}}If you take videos and photos, do so without unlocking your phone.{{% /fragment %}}
-- {{% fragment %}}If you get arrested, you can refuse to unlock your phone.{{% /fragment %}}
+# Comprehesive Protest Guide:
+[Here](https://ssd.eff.org/en/module/attending-protest)
 
 ---
 
@@ -338,7 +337,7 @@ When you share your location with an app on your phone, they know where you are.
 
 # Thanks
 
-Next workshop sometime in August
+Next workshop February 25 @ 6 pm 
 
 <i class="fab fa-instagram"></i> @cpcscc_ 
 <i class="fab fa-twitter"></i> @cpcscc 

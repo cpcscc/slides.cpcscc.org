@@ -157,7 +157,7 @@ Requires you to enter a randomly generated PIN after successfully entering your 
 
 Paid: [1Password](https://1password.com), [LastPass](https://lastpass.com)
 
-Free: Duo Security, Google Authenticator, Tons more options
+Free: Duo Security, Google Authenticator, Authy, tons more options
 
 Last resort: Text message
 
